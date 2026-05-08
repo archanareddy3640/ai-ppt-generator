@@ -84,7 +84,8 @@ Deployed using Vercel:
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="959" height="326" alt="image" src="https://github.com/user-attachments/assets/60c5a9a7-e2c0-478d-8547-9746ea64d8b7" />
+
 
 ---
 
