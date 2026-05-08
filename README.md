@@ -110,7 +110,7 @@ Deployed using Vercel:
 
 ## 👩‍💻 Author
 
-Archana Dadigala
+Archana Dadigala, Shanmukha Srikar Bhaviri
 
 ---
 
